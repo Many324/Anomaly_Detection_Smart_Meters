@@ -1,7 +1,7 @@
 # Pipeline
 
-With each new reading of the meter
-0. Meter works? In other words, the data is missing for the timestamp.
+With each new reading of the meter:
+1. Meter works? In other words, the data is missing for the timestamp.
 
 Then look at four time scales:
 0. 15 minutes (single measurement)
