@@ -1,6 +1,9 @@
 # Pipeline
 
-With each new reading of the meter, look at three time windows:
+With each new reading of the meter
+0. Meter works? In other words, the data is missing for the timestamp.
+
+Then look at four time scales:
 0. 15 minutes (single measurement)
 1. 1 hour
 2. 8 hours
