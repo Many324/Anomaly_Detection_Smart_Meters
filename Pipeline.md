@@ -1,6 +1,7 @@
 # Pipeline
 
 With each new reading of the meter, look at three time windows:
+0. 15 minutes (single measurement)
 1. 1 hour
 2. 8 hours
 3. 24 hours back
