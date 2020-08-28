@@ -1,4 +1,63 @@
-# Anomaly Detection in Smart Meter Data
-Energy consumption in buildings and industry is often wasted due to user behaviour, human error, and poorly performing equipment. In this context, identifying abnormal consumption power behavior can be an important part of reducing peak energy consumption and changing undesirable user behavior. With the widespread rollouts of smart meters, normal operating consumption can be learned over time and used to identify or flag abnormal consumption. Such information can help indicate to users when their equipment is not operating as normal and can help to change user behavior or to even indicate what the problem appliances may be to implement lasting changes.
+---
+tags: energyhack2020
+---
+# 02 - Challenge X
+_This is an open document which anyone can edit to have an online discussion and document ideas or links. See [Markdown Guide](https://www.markdownguide.org/) and [Features](https://md.schoolofdata.ch/features), and click on the :pencil2: icon to edit._
 
-This challenge is looking for data scientists to apply their skills to an anomaly detection problem using smart meter data. Ideally, such an algorithm should begin to operate after as little as 3 months and should improve over time. A platform to visualise the anomalies would also be useful. Users can select any type of machine learning algorithms that they wish to in order to detect the anomalies from the data.
+---
+
+:bridge_at_night: _Upload a **visual** that represents your project idea._
+
+
+_Write your responses to the following questions next to the dash._ :point_down: 
+
+:balloon: _Decide a **name** for your team's project._
+
+-
+
+:pencil: Write a **one-liner** project description
+
+-
+
+:thought_balloon: _**What problem** are you solving?_
+
+-
+
+:bulb: _**How** are you solving that problem?_
+
+-
+
+:statue_of_liberty: _What have you **achieved** during the Hackdays?_
+
+-
+
+:postbox: _Include **links** to source code or prototypes._
+
+-
+
+:paperclip: _Indicate any relevant **terms** or licenses on your work._
+
+-
+
+:roller_coaster: _What **issues** have you encountered, for example in regards to the data you wanted to use?_
+
+-
+
+:chart: _Which data have you used? Format…? Permissions?_
+
+-
+
+:mount_fuji: _What are the **next steps**?_
+
+-
+
+:information_desk_person: _Who are you and your **team mates**, and how can you best be **contacted**?_
+
+-
+
+---
+
+:heavy_check_mark: _Do you have any general feedback about **#energyhack2020**?_
+
+
+- 
