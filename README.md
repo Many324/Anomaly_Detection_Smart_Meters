@@ -8,6 +8,7 @@ _This is an open document which anyone can edit to have an online discussion and
 
 :bridge_at_night: _Upload a **visual** that represents your project idea._
 
+![alt text](https://github.com/Many324/Anomaly_Detection_Smart_Meters/blob/master/DBSCAN.png)
 
 _Write your responses to the following questions next to the dash._ :point_down: 
 
