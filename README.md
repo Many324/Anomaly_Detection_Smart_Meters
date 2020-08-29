@@ -1,7 +1,7 @@
 ---
 tags: energyhack2020
 ---
-# 14 - Anomaly Detection in Smart Meter Data
+# 14 - Anomaly Detection in Smart Meter Data -- Statistical Approach
 _This is an open document which anyone can edit to have an online discussion and document ideas or links. See [Markdown Guide](https://www.markdownguide.org/) and [Features](https://md.schoolofdata.ch/features), and click on the :pencil2: icon to edit._
 
 ---
